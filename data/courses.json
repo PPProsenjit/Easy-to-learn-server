@@ -1,0 +1,73 @@
+[
+    {
+        "category_id": "01",
+        "_id": "6334997eff4dd7de9ea05ade",
+        "picture": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Professional Programming With Python",
+        "price": "5000",
+        "time": "5",
+        "total_view": 488,
+        "about": "Professional Programming With Python- course is for those who want to be job ready or to strengthen their CV. This course provides all the python knowledge that someone needs to apply to real-world ap\r\n"
+    },
+    {
+        "category_id": "02",
+        "_id": "6334997e68b93dae9d17942e",
+        "picture": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Backend Development with Django",
+        "price": "8000",
+        "time": "9",
+        "total_view": 48,
+        "about": "This course is for those who want to be job ready or to strengthen their CV. This course provides all the Django and Backend Technology knowledge that someone needs to apply to real-world applications.\r\n"
+    },
+    {
+        "category_id": "03",
+        "_id": "6334997e498787766a118438",
+        "picture": "https://images.pexels.com/photos/4458411/pexels-photo-4458411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "DevOps Fundamental Course",
+        "price": "7000",
+        "time": "12",
+        "total_view": 400,
+        "about": "The DevOps Fundamentals Course is designed to provide the core education necessary to build your DevOps vocabulary and to understand its principles and practices DevOps tools . With the help of key De...\r\n"
+    },
+    {
+        "category_id": "04",
+        "_id": "6334997e6ac8e105ca7d473e",
+        "picture": "https://images.pexels.com/photos/340152/pexels-photo-340152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Professional Cyber Security Career",
+        "price": "6000",
+        "time": "10",
+        "total_view": 58,
+        "about": "Cyber Security is a vital part of day to day Information Technology domain. If you are a programmer, system analyst, system administrator, students or a general computer user, it is better to understa..\r\n"
+    },
+    {
+        "category_id": "05",
+        "_id": "6334997e88cce273c9a55cea",
+        "picture": "https://images.pexels.com/photos/1181273/pexels-photo-1181273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Full Stack Asp.net Core MVC Web Development",
+        "age": 30,
+        "time": 26,
+        "total_view": 55,
+        "about": "This course is designed to fill up important gaps in your journey to become a professional software engineer. In this course you learn about industry good practices and professional software developmet.\r\n"
+    },
+    {
+        "category_id": "06",
+        "_id": "6334997e83d9456338e7d830",
+        "picture": "https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Web Application Development with Laravel",
+        "price": "10000",
+        "time": "7",
+        "total_view": 99,
+        "about": "Learn to develop great web applications using one of the most popular open source PHP framework. Laravel has become one of the hottest frameworks and a sought after skill for PHP developers. Its clean and elegant syntax coupled with the powerful toolkit makes it an ideal choice for modern web developers. This powerful technology boast of features such as clean routing, elegant queue library, ORM ,simple authentication and a large developer community.\r\n"
+    },
+    {
+        "category_id": "07",
+        "_id": "6334997e83d9456338e7d832",
+        "picture": "https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Programming Fundamentals",
+        "price": "10000",
+        "time": "9",
+        "total_view": 78,
+        "about": "This course solely focuses on programming fundamentals. There are many people who are from Non-CS background but have the indomitable desire to learn and understand the fundamentals of programming fro...\r\n"
+    }
+    
+]

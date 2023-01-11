@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "Professional Programming With Python"
+    },
+    {
+        "id": "02",
+        "name": "Backend Development with Django"
+    },
+    {
+        "id": "03",
+        "name": "DevOps Fundamental Course"
+    },
+    {
+        "id": "04",
+        "name": "Professional Cyber Security Career"
+    },
+    {
+        "id": "05",
+        "name": "Full Stack Asp.net Core MVC Web Development"
+    },
+    {
+        "id": "06",
+        "name": "Web Application Development with Laravel"
+    },
+    {
+        "id": "07",
+        "name": "Programming Fundamentals "
+    },
+    {
+        "id": "08",
+        "name": "all Courses"
+    }
+]
